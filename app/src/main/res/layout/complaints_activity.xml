@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:id="@+id/text_view_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:paddingBottom="10dp"
+        android:paddingTop="25dp"
+        android:text="Feedback"
+        android:textAlignment="center"
+        android:textColor="#6E6E6E"
+        android:textSize="60sp" />
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/complain_border"
+        android:ems="10"
+        android:hint="Full Name"
+        android:padding="15dp"
+        android:paddingTop="10dp"
+        android:textSize="24sp"
+        android:textColor="#6e6e6e"
+     />
+
+    <EditText
+        android:id="@+id/editText3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:ems="10"
+        android:hint="Email"
+        android:padding="15dp"
+        android:textColor="#6e6e6e"
+        android:textSize="24sp" />
+
+    <EditText
+        android:id="@+id/editText4"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="@drawable/complain_border"
+        android:ems="10"
+        android:hint="Comments"
+        android:padding="10dp"
+        android:paddingTop="25dp"
+        android:textSize="24sp"
+        android:textColor="#6e6e6e"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Submit"
+        android:layout_gravity="center_horizontal"
+        />
+
+
+
+
+</LinearLayout>
