@@ -1,7 +1,7 @@
 <h1 align="center">EVA</h1>
 
 <p align="center"> 
-<img src="/Logo.png" alt="EVA logo">
+<img src="/Logo.png" alt="EVA logo" height="400">
 </p>
 
 <p align="center">Emotional Value Aggregator</p>
