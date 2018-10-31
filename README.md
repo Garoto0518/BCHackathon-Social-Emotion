@@ -1,6 +1,8 @@
 <h1 align="center">EVA</h1>
 
-![Team Social Emotion enthusiastically jumping 5am during the hackathon](/Jumping.jpg)
+<p align="center"> 
+<img src="/Logo.png" alt="EVA logo">
+</p>
 
 <p align="center">Emotional Value Aggregator</p>
 <p align="center">Establishes an emotional grade to a geographic region based on geotagged social media posts</p>
@@ -30,3 +32,7 @@ Feel free to fork and update!
 
 ## License
 This web application and Android app are available for general consumption.
+
+<p align="center"> 
+<img src="/Jumping.jpg" alt="Team Social Emotion enthusiastically jumping 5am during the hackathon">
+</p>
