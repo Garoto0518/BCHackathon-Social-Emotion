@@ -1,4 +1,4 @@
-<h1 align="center"><EVA</h1>
+<h1 align="center">EVA</h1>
 
 ![Team Social Emotion enthusiastically jumping 5am during the hackathon](/Jumping.jpg)
 
@@ -6,7 +6,7 @@
 <p align="center">Establishes an emotional grade to a geographic region based on geotagged social media posts</p>
 
 ## Team Members
-Jorge Ortiz, Raahim Idrees, Dav Constantine, Withman Simprevil, Gabriel Rodriguez-Torres, Cecilia Constantine 
+Jorge Raahim Dav Withman Gabriel Cecilia 
 
 ## Technology Used
 #### Frontend
@@ -16,7 +16,7 @@ Jorge Ortiz, Raahim Idrees, Dav Constantine, Withman Simprevil, Gabriel Rodrigue
 
 #### Backend
 * React | Node.js
-* Python | BeautifulSoup | Selenium - configure scrape in place of APIs
+* Python | BeautifulSoup | Selenium - scraping in place of APIs
 
 #### Mobile Version
 * Java | Android Studios
