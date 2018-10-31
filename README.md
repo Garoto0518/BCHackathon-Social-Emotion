@@ -24,5 +24,9 @@ Jorge Raahim Dav Withman Gabriel Cecilia
 
 ## Presentation
 [Download Powerpoint](EVA-Presentation.pptx.zip)
-## Contributions
+
+## Contribution
+Feel free to fork and update! 
+
+## License
 This web application and Android app are available for general consumption.
